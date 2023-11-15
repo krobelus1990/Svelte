@@ -18,6 +18,10 @@ https://vue-ts-composition.vercel.app/
 
 ## 参考ビデオ
 
+https://github.com/Venus0305/svelte-todo-test/assets/96694509/e2214370-c043-44a2-b3c1-d48c42c95f98
+
+
+
 ## はじめる
 
 依存関係をインストールする
