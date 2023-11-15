@@ -3,6 +3,9 @@
 参考サイト：
 https://vue-ts-composition.vercel.app/
 
+実行サイト：
+https://main.d30567b532xbkb.amplifyapp.com/
+
 コーディング規則:
 
 - [x] 使用言語は TypeScript です。
